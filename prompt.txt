@@ -1,6 +1,6 @@
 One of your colleagues is assigned this ticket to implement a small web app:
 
-Create a small web app that allows users to sign up (for the purposes of this exercise, you can ignore passwords). Each user can optionally provide their age and their favorite color (out of a list of 20 colors). 
+Create a small web app that allows users to sign up. Each user can optionally provide their age and their country. 
 
 After signing up, users should be able to follow other users, and see a list of who they follow. 
 
